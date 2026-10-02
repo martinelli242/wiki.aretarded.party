@@ -1,8 +1,6 @@
 * [Strona Główna](/)
-* **Świat i Lore**
-  * **Geografia**
-    * [Ferelden](ferelden.md) 
-  * [Frakcje](frakcje.md)
-  * [Tabletest](tabletest.md)
-* **Postacie**
+* **Dragon Age**
+  * **World and Lore**
+    * [Dragon Age wiki](DragonAge/wiki.md) 
+* **Characetrs**
   * [Bohaterowie](bohaterowie.md)
